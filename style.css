@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@700&family=Roboto&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  background-color: black;
+}
+
+.button {
+  width: 66px;
+  height: 66px;
+  padding: 46px;
+  margin: 0px 0px;
+  border: 2px solid black;
+  border-radius: 11px;
+  cursor: pointer;
+  background-color: #706868;
+  font-size: x-large;
+}
+
+#last {
+  background-color: #f9c620;
+}
+
+.rows input {
+  font-size: 45px;
+  width: 382px;
+  height: 202px;
+  margin: 7px;
+  border: 2px solid black;
+  text-align: right;
+  background-color: #caa1ca;
+  /* border-color: white; */
+}

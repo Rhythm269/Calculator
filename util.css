@@ -1,0 +1,25 @@
+.centre {
+  text-align: center;
+  margin: 0px;
+  color: white;
+}
+
+.bg {
+  background-color: darkred;
+}
+
+.margn {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex_box {
+  flex-direction: column;
+}
+
+.align_item {
+  align-items: center;
+}
